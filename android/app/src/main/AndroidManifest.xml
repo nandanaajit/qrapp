@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.qrlogin">
+    package="com.example.qrrrapp">
    <application
-        android:label="qrlogin"
+        android:label="qrrrapp"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
